@@ -1,0 +1,4 @@
+Feb 15 12:26:39 120a8d2c69a9 rsyslogd: rsyslogd's groupid changed to 102
+Feb 15 12:26:39 120a8d2c69a9 rsyslogd: rsyslogd's userid changed to 101
+Feb 15 12:26:39 120a8d2c69a9 rsyslogd:  [origin software="rsyslogd" swVersion="8.32.0" x-pid="24" x-info="http://www.rsyslog.com"] start
+Feb 15 12:27:09 120a8d2c69a9 root: logging with docker-compose

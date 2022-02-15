@@ -8,5 +8,6 @@ COPY rsyslog-client.conf /etc/rsyslog.conf
 
 COPY startup.sh /startup.sh
 RUN chmod 744 /startup.sh
-CMD ["/startup.sh"]
+
+# CMD ["/startup.sh"]
 

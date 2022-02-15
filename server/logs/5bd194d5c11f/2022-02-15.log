@@ -1,0 +1,4 @@
+Feb 15 12:37:54 5bd194d5c11f rsyslogd: rsyslogd's groupid changed to 102
+Feb 15 12:37:54 5bd194d5c11f rsyslogd: rsyslogd's userid changed to 101
+Feb 15 12:37:54 5bd194d5c11f rsyslogd:  [origin software="rsyslogd" swVersion="8.32.0" x-pid="23" x-info="http://www.rsyslog.com"] start
+Feb 15 12:38:10 5bd194d5c11f root: this is test
