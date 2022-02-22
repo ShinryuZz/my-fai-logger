@@ -1,6 +1,7 @@
 FROM ubuntu:18.04
 
-RUN apt-get update && \
+RUN ln -sf /usr/share/zoneinfo/Asia/Tokyo /etc/localtime && \
+    apt-get update && \
     apt-get install -y rsyslog
 
 

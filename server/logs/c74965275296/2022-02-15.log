@@ -3,3 +3,4 @@ Feb 15 13:05:58 c74965275296 rsyslogd: rsyslogd's userid changed to 101
 Feb 15 13:05:58 c74965275296 rsyslogd:  [origin software="rsyslogd" swVersion="8.32.0" x-pid="23" x-info="http://www.rsyslog.com"] start
 Feb 15 13:06:23 c74965275296 root: test logging
 Feb 15 13:06:29 c74965275296 root: with fai-network
+Feb 15 13:19:15 c74965275296 root: test test

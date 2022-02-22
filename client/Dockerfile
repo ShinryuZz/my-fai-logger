@@ -1,8 +1,11 @@
 FROM ubuntu:18.04
 
 RUN apt-get update && \
-    apt-get install -y rsyslog
+    apt-get install -y rsyslog && \
+    apt install -y tzdata
 
+# set timezone
+ENV TZ Asia/Tokyo
 
 COPY rsyslog-client.conf /etc/rsyslog.conf
 
