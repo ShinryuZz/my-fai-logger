@@ -1,0 +1,20 @@
+Feb 16 00:35:31 client kernel: [95443.284917] eth0: renamed from vetha6029c8
+Feb 16 00:35:31 client kernel: [95443.290144] IPv6: ADDRCONF(NETDEV_CHANGE): veth50e6d4f: link becomes ready
+Feb 16 00:35:31 client kernel: [95443.292992] docker0: port 1(veth50e6d4f) entered blocking state
+Feb 16 00:35:31 client kernel: [95443.294766] docker0: port 1(veth50e6d4f) entered forwarding state
+Feb 16 00:35:54 client kernel: [95465.971068] docker0: port 1(veth50e6d4f) entered disabled state
+Feb 16 00:35:54 client kernel: [95465.974781] device veth50e6d4f left promiscuous mode
+Feb 16 00:35:54 client kernel: [95465.976295] docker0: port 1(veth50e6d4f) entered disabled state
+Feb 16 00:35:54 client kernel: [95466.055665] docker0: port 1(vethd00215b) entered blocking state
+Feb 16 00:35:54 client kernel: [95466.057381] docker0: port 1(vethd00215b) entered disabled state
+Feb 16 00:35:54 client kernel: [95466.253488] eth0: renamed from vethbc27842
+Feb 16 00:35:54 client kernel: [95466.259266] IPv6: ADDRCONF(NETDEV_CHANGE): vethd00215b: link becomes ready
+Feb 16 00:35:54 client kernel: [95466.325942] docker0: port 1(vethd00215b) entered disabled state
+Feb 16 00:35:54 client kernel: [95466.328179] vethbc27842: renamed from eth0
+Feb 16 00:35:54 client kernel: [95466.367286] docker0: port 1(vethd00215b) entered disabled state
+Feb 16 00:35:54 client kernel: [95466.373563] device vethd00215b left promiscuous mode
+Feb 16 00:35:54 client kernel: [95466.375047] docker0: port 1(vethd00215b) entered disabled state
+Feb 16 00:36:16 client kernel: [95487.943167] IPVS: ftp: loaded support on port[0] = 21
+Feb 16 00:36:16 client kernel: [95488.090463] eth0: renamed from veth9959b21
+Feb 16 00:38:21 client kernel: [95613.530910] docker0: port 1(vethbdc28b6) entered disabled state
+Feb 16 00:38:21 client kernel: [95613.533168] veth9959b21: renamed from eth0
